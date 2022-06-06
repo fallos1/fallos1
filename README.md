@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fallos1
-- 👀 I’m interested in data, economics, soccer, foriegn movies
+- 👀 I’m interested in data, economics, soccer, foreign movies
 
 Some projects hosted on heroku. They take time to spin up on initial load.
 
