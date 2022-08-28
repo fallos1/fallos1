@@ -3,7 +3,7 @@
 
 Some projects hosted on heroku. They take time to spin up on initial load.
 
-<a href="http://initial-d-vis.herokuapp.com/">Initial D visualisation with d3.js and React</a>
+<a href="initialdvis-production.up.railway.app">Initial D visualisation with d3.js and React</a>
 
 <a href="http://mal-anime-recommender.herokuapp.com/">Anime recommender using cosine similarity. React and Flask</a>
 
